@@ -50,7 +50,7 @@ export function TaskCard({ task }: ColumnCardProps) {
         </div>
       </div>
 
-      <div className="flex flex-row">
+      <div className="flex flex-row h-10">
         <div className="text-sm font-inter text-[#64748B] line-clamp-2">
           {task.taskDescription}
         </div>
