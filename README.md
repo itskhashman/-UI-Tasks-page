@@ -1,6 +1,6 @@
 # Tasks App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses TypeScript.
+This project is a React application developed with **TypeScript** for type safety and modern web development practices.
 
 ---
 
@@ -12,6 +12,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - **Formik** for form state management
 - **Yup** for form validation
 - **line-clamp** utility from Tailwind CSS for truncating text
+
+---
+
+## Design Guidelines
+
+- The app is designed to be **pixel-perfect**.
+- Recommended resolution for best experience: **1920 x 950** pixels.
 
 ---
 
