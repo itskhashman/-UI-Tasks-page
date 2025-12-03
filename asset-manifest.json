@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/-UI-Tasks-page/static/css/main.e1eaf3aa.css",
-    "main.js": "/-UI-Tasks-page/static/js/main.4c5733cd.js",
+    "main.css": "/-UI-Tasks-page/static/css/main.783e8fa4.css",
+    "main.js": "/-UI-Tasks-page/static/js/main.6029dd3d.js",
     "static/media/Inter-VariableFont_opsz,wght.ttf": "/-UI-Tasks-page/static/media/Inter-VariableFont_opsz,wght.e05c5f3d1fa6a3893d84.ttf",
     "index.html": "/-UI-Tasks-page/index.html",
-    "main.e1eaf3aa.css.map": "/-UI-Tasks-page/static/css/main.e1eaf3aa.css.map",
-    "main.4c5733cd.js.map": "/-UI-Tasks-page/static/js/main.4c5733cd.js.map"
+    "main.783e8fa4.css.map": "/-UI-Tasks-page/static/css/main.783e8fa4.css.map",
+    "main.6029dd3d.js.map": "/-UI-Tasks-page/static/js/main.6029dd3d.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1eaf3aa.css",
-    "static/js/main.4c5733cd.js"
+    "static/css/main.783e8fa4.css",
+    "static/js/main.6029dd3d.js"
   ]
 }
