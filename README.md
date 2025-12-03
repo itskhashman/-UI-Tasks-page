@@ -46,3 +46,10 @@ Make sure you have **Node.js** and **npm** installed on your machine.
    
    ```bash
    http://localhost:3000
+
+
+### Deployment
+
+This project is deployed and available at:
+```bash
+https://itskhashman.github.io/-UI-Tasks-page/
