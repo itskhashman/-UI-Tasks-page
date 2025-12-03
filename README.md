@@ -30,23 +30,19 @@ Make sure you have **Node.js** and **npm** installed on your machine.
    ```bash
    git clone https://github.com/itskhashman/-UI-Tasks-page.git
 2. Navigate to the project directory:
+
    ```bash
    cd -UI-Tasks-page
-
-
-3. Install dependencies:
+4. Install dependencies:
+5. 
    ```bash
-
    npm install
-
-
-4. Start the development server:
+6. Start the development server:
+   
    ```bash
-
    npm start
 
-
-5. Open your browser and visit:
+8. Open your browser and visit:
+   
    ```bash
-
    http://localhost:3000
