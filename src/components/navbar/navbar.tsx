@@ -8,7 +8,7 @@ interface NavbarProps {
 export function Navbar({ onMenuClick }: NavbarProps) {
   return (
     <header className="h-[73px] bg-white flex flex-row  justify-center border-b border-[#e7ebf2] items-center">
-      <div className="w-9/12 flex flex-row md:justify-end justify-between items-center">
+      <div className="w-[80%] flex flex-row md:justify-end justify-between items-center">
         <button
           className="md:hidden ml-4"
           onClick={onMenuClick}

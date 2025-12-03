@@ -46,7 +46,7 @@ export function Tasks() {
 
   return (
     <div className="flex justify-center items-center">
-      <div className="w-9/12 flex flex-col gap-6 py-4">
+      <div className="w-[80%] flex flex-col gap-6 py-4">
         <Header openModal={openModal} />
 
         <div className="grid grid-cols-12 gap-3">
@@ -63,7 +63,7 @@ export function Tasks() {
             </div>
           ))}
         </div>
-        <div className="flex md:justify-between flex-row">
+        <div className="flex md:justify-between md:flex-row flex-col gap-2 ">
           <div className="flex flex-row flex-wrap gap-2">
             {filterConfig.map((item) => (
               <FilterButton
