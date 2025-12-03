@@ -30,7 +30,7 @@ export function TaskCard({ task }: ColumnCardProps) {
       {...listeners}
       {...attributes}
       style={style}
-      className="flex flex-col max-h-[198px] bg-white z-50 px-3 py-3  gap-3 border border-[#E2E8F0] rounded-lg outline-none"
+      className="flex flex-col min-h-[198px] bg-white z-50 px-3 py-3  gap-3 border border-[#E2E8F0] rounded-lg outline-none"
     >
       <div className="flex justify-between">
         <span className="font-tajawal whitespace-nowrap">{task.taskTitle}</span>

@@ -5,7 +5,7 @@ import { ToggleButton } from "./toggleButton";
 export function Header({ openModal }: { openModal: () => void }) {
   return (
     <div className="flex w-full md:flex-row flex-col md:gap-0 gap-4 justify-between items-center">
-      <div className="flex flex-col md:items-start items-center gap-2">
+      <div className="flex flex-col md:items-start items-center gap-2 mb-1">
         <span className="text-3xl text-[#182B49] font-Tajawal font-bold">
           المهام
         </span>
