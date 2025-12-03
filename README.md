@@ -50,4 +50,4 @@ Make sure you have **Node.js** and **npm** installed on your machine.
 
 ### Deployment
 
-This project is deployed and available at: [React Documentation](https://itskhashman.github.io/-UI-Tasks-page/)
+This project is deployed and available at: [https://itskhashman.github.io/-UI-Tasks-page/](https://itskhashman.github.io/-UI-Tasks-page/)
