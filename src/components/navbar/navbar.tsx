@@ -25,7 +25,7 @@ export function Navbar({ onMenuClick }: NavbarProps) {
           <div className="flex flex-row justify-start items-center gap-5">
             <div className="relative md:flex hidden">
               <img
-                src="/bell-notification.svg"
+                src="bell-notification.svg"
                 alt="logo"
                 className=" w-7 h-7"
               />
@@ -34,7 +34,7 @@ export function Navbar({ onMenuClick }: NavbarProps) {
               </div>
             </div>
             <MessageSquare className="w-7 h-7" />
-            <img src="/avatar.png" alt="logo" className="h-10 w-10 " />
+            <img src="avatar.png" alt="logo" className="h-10 w-10 " />
           </div>
         </div>
       </div>

@@ -43,7 +43,7 @@ export function Sidebar({ isOpen, onClose }: SidebarProps) {
           <div className="bg-[#C9B57A] rounded-full w-10 h-10 flex items-center justify-center"></div>
         </div>
 
-        <div className="flex flex-row rounded-2xl border px-1 py- gap-3 border-[#288EC7] bg-[#122943] text-[#216f9e] my-4">
+        <div className="flex flex-row rounded-2xl border px-1 py-1 gap-3 border-[#288EC7] bg-[#122943] text-[#216f9e] my-4">
           <div className="font-inter font-medium text-sm rounded-2xl px-5 py-2 bg-[#288EC7] text-[#16243D] whitespace-nowrap">
             إدارة المشاريع
           </div>
